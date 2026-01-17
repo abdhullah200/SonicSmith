@@ -65,9 +65,9 @@ Set `MODEL_PROVIDER` to the provider for which you have valid keys. Only supply 
 
 **If you found this project helpful, please consider giving it a ⭐ on GitHub!**
 
-[![GitHub Stars](https://img.shields.io/github/stars/abdhullah200/Xynraco?style=social)](https://github.com/abdhullah200/SonicSmith)
-[![GitHub Forks](https://img.shields.io/github/forks/abdhullah200/Xynraco?style=social)](https://github.com/abdhullah200/SonicSmith/fork)
-[![GitHub Issues](https://img.shields.io/github/issues/abdhullah200/Xynraco)](https://github.com/abdhullah200/SonicSmith/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/abdhullah200/SonicSmith?style=social)](https://github.com/abdhullah200/SonicSmith)
+[![GitHub Forks](https://img.shields.io/github/forks/abdhullah200/SonicSmith?style=social)](https://github.com/abdhullah200/SonicSmith/fork)
+[![GitHub Issues](https://img.shields.io/github/issues/abdhullah200/SonicSmith)](https://github.com/abdhullah200/SonicSmith/issues)
 
 </div>
 
